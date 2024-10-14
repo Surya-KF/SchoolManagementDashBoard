@@ -5,8 +5,8 @@ export default function DashbordLayout({
   }>) {
     return <div className="h-screen flex">
       {/* LEFT*/}
-      <div className="w-1/6">l</div>
+      <div className="w-[14%] md:w[8]lg:w-[16%] bg-red-200">l</div>
       {/* RIGHT*/}
-      <div className="w-5/6">r</div>
+      <div className="w-[86%] md[92%] bg-blue-200">r</div>
     </div>;
   }

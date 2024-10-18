@@ -16,9 +16,9 @@ export default function Homepage() {
             <ul className="flex space-x-4">
               <li><Link href="/" className="hover:text-yellow-300 transition-colors duration-200">Home</Link></li>
               <li><Link href="/sign-in" className="hover:text-yellow-300 transition-colors duration-200">Login</Link></li>
-              <li><Link href="/academics" className="hover:text-yellow-300 transition-colors duration-200">Admin</Link></li>
+              <li><Link href="/admin" className="hover:text-yellow-300 transition-colors duration-200">About Us</Link></li>
               <li><Link href="/admissions" className="hover:text-yellow-300 transition-colors duration-200">Admissions</Link></li>
-              <li><Link href="/contact" className="hover:text-yellow-300 transition-colors duration-200">Contact</Link></li>
+              <li><Link href="/contact" className="hover:text-yellow-300 transition-colors duration-200">Parent</Link></li>
             </ul>
           </nav>
         </div>=

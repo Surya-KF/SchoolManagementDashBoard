@@ -1,5 +1,5 @@
 import Link from "next/link"
-import LoginPage from "./(dashboard)/sign-in/page"
+import LoginPage from "./sign-in/page";
 export default function Homepage() {
   return (
     <div className="flex flex-col min-h-screen bg-gradient-to-b from-blue-50 to-indigo-100">

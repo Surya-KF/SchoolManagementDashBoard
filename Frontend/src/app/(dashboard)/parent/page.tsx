@@ -5,4 +5,4 @@ const ParentPage = () => {
         
     
 }
-export default ParentPage;
+export default ParentPage

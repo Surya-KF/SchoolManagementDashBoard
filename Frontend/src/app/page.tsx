@@ -21,7 +21,7 @@ export default function Homepage() {
               <li><Link href="/contact" className="hover:text-yellow-300 transition-colors duration-200">Parent</Link></li>
             </ul>
           </nav>
-        </div>=
+        </div>
       </header>
 
       <main className="flex-grow">
